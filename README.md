@@ -3,9 +3,9 @@
 [![Versão](https://img.shields.io/badge/vers%C3%A3o-1.0-sucecess.svg)](https://github.com/oanderoficial/dashboard_ibovespa)
 <p>Dashboard feito em python utilizando as seguintes bibliotecas; </p>
 
-[![Dependência](https://img.shields.io/badge/Dependência-Pandas-blue.svg)](https://pypi.org/project/pandas/)
-[![Dependência](https://img.shields.io/badge/Dependência-Plotly-blue.svg)](https://pypi.org/project/plotly/)
-[![Dependência](https://img.shields.io/badge/Dependência-streamlit-blue.svg)](https://pypi.org/project/streamlit/)
+[![Dependência](https://img.shields.io/badge/import-Pandas-blue.svg)](https://pypi.org/project/pandas/)
+[![Dependência](https://img.shields.io/badge/import-Plotly-blue.svg)](https://pypi.org/project/plotly/)
+[![Dependência](https://img.shields.io/badge/import-streamlit-blue.svg)](https://pypi.org/project/streamlit/)
 
 <h2> Aplicação preview </h2>
 <br>
